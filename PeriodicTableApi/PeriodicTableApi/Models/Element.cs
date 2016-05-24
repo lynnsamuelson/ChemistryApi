@@ -33,7 +33,6 @@ namespace PeriodicTableApi.Models
         public string Orbitals { get; set; }
         public string Family { get; set; }
         public string Period { get; set; }
-        public string Classification { get; set; }
 
     }
 

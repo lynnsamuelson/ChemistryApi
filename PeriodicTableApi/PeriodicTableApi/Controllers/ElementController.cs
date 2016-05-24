@@ -18,7 +18,7 @@ namespace PeriodicTableApi.Controllers
                          {
                              AtomicName = ele.AtomicName
                          });
-            return atoms; 
+            return atoms;
         }
 
         //public IHttpActionResult GetProduct(int id)
